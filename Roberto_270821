@@ -1,0 +1,31 @@
+print("Question 2******")
+for apple in range(30,41):
+    print(apple)
+
+print("Question 3******")
+for apple in range (30,41):
+    if apple < 35:
+        print(apple)
+
+print("Question 4******")
+for apple in range (30,41):
+    if apple <= 35:
+        print(apple)
+
+print("Question 5******")
+for apple in range (30,41):
+    if apple > 35:
+        print(apple)
+
+print("Question 6******")
+for apple in range (30,41):
+    if apple >= 35:
+        print(apple)
+
+print("Question 7******")
+
+#I could not do it
+
+print("Question 8*****")
+
+#I could not do it
